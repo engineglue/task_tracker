@@ -1,6 +1,8 @@
 # task_tracker
 Modern, yet basic task tracking (bug reporting) system utilizing PHP, built with the intention of avoiding BugZilla and CGI.
 
+Compatible with PHP 7.3.
+
 Installation is simple. Import the database and edit the configuration file under ./server/ (most notably your database credentials.)
 
 example:  
