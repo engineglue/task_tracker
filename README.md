@@ -22,6 +22,7 @@ You will also need to set appropriate permissions on the ./upload/ directory. Th
 example:  
 `chown -R www-data:www-data /var/www/tasks/upload`  
 
+For the idle times report, you may also want to configure your crons.
 
 Let me know if you have any questions or need help.
 
