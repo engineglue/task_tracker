@@ -9,7 +9,7 @@ example:
 `mysql -u root -p`  
 `CREATE DATABASE tasks;`  
 `exit;`  
-`mysql -u root -p tasks < tasks.sql`  
+`mysql -u root -p tasks < /var/www/tasks/database/tasks.sql`  
 `nano /var/www/tasks/server/configuration.php`  
 `		$db_host = 'localhost';`  
 `		$db_username = 'apache';`  
