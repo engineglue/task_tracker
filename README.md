@@ -26,4 +26,4 @@ For the idle times report, you may also want to configure your crons.
 
 Let me know if you have any questions or need help.
 
-Note that task tracker doesn't currently support versioning. Feel free to make contributions. If the demand is high enough, I'd be happy to implement it myself. Let me know. Thanks for stopping by!
+Note that task tracker doesn't currently support versioning and it needs protection from SQL injection. Feel free to make contributions. I'd be happy to implement these features myself. Let me know. Thanks for stopping by!
